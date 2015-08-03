@@ -16,9 +16,6 @@ namespace Temperature_Converter
             string temp;
             string f = "F";
             string c = "C";
-            //bool quitnow = false;
-            //while (quitnow == false);
-            //{
                 Console.WriteLine("Would you like to convert from Fahrenheiht or Celcius? Please enter a 'C' or an 'F'.");
                 unit = Console.ReadLine();
                 unit = unit.ToUpper();
@@ -33,7 +30,6 @@ namespace Temperature_Converter
                     temp = Console.ReadLine();
                     convert();
                 }
-           // }
         }
     }
 }
