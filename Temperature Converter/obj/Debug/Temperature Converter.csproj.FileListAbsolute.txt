@@ -1,0 +1,5 @@
+c:\Users\Ray\Documents\Visual Studio 2015\Projects\Temperature Converter\Temperature Converter\bin\Debug\Temperature Converter.exe.config
+c:\Users\Ray\Documents\Visual Studio 2015\Projects\Temperature Converter\Temperature Converter\bin\Debug\Temperature Converter.exe
+c:\Users\Ray\Documents\Visual Studio 2015\Projects\Temperature Converter\Temperature Converter\bin\Debug\Temperature Converter.pdb
+c:\Users\Ray\Documents\Visual Studio 2015\Projects\Temperature Converter\Temperature Converter\obj\Debug\Temperature Converter.exe
+c:\Users\Ray\Documents\Visual Studio 2015\Projects\Temperature Converter\Temperature Converter\obj\Debug\Temperature Converter.pdb
