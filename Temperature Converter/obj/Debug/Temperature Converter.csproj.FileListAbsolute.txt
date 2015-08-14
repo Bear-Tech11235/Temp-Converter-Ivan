@@ -6,3 +6,6 @@ c:\Users\Ray\Documents\Visual Studio 2015\Projects\Temperature Converter\Tempera
 C:\Users\Ray\Documents\GitHub\Temp-Converter-Ivan\Temperature Converter\bin\Debug\Temperature Converter.exe.config
 C:\Users\Ray\Documents\GitHub\Temp-Converter-Ivan\Temperature Converter\obj\Debug\Temperature Converter.exe
 C:\Users\Ray\Documents\GitHub\Temp-Converter-Ivan\Temperature Converter\obj\Debug\Temperature Converter.pdb
+C:\Users\Ray\Documents\GitHub\Temp-Converter-Ivan\Temperature Converter\bin\Debug\Temperature Converter.exe
+C:\Users\Ray\Documents\GitHub\Temp-Converter-Ivan\Temperature Converter\bin\Debug\Temperature Converter.pdb
+C:\Users\Ray\Documents\GitHub\Temp-Converter-Ivan\Temperature Converter\obj\Debug\Temperature Converter.csprojResolveAssemblyReference.cache

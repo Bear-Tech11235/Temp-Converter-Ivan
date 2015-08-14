@@ -14,15 +14,25 @@ namespace Temperature_Converter
             static void convert() { 
             string unit;
             string temp;
+            int tempvalue = 0;
             string f = "F";
             string c = "C";
-                Console.WriteLine("Would you like to convert from Fahrenheiht or Celcius? Please enter a 'C' or an 'F'.");
+                Console.WriteLine("Would you like to convert from Fahrenheit or Celcius? Please enter a 'C' or an 'F'.");
                 unit = Console.ReadLine();
                 unit = unit.ToUpper();
-                if (Equals(unit, c) || Equals(unit, f))
-                {
+            if (Equals(unit, c) || Equals(unit, f)) 
+                {       
                     Console.WriteLine("Please enter a temperature to convert");
                     temp = Console.ReadLine();
+                // if tempvalue = (Int32.TryParse(temp, out tempvalue));
+                //{ tempvalue = (Int32.Parse(temp, out tempvalue)); }
+                tempvalue = Convert.ToInt32(temp);
+                if (Equals(unit, c)) 
+                {
+                    tempvalue = (tempvalue - 32) * (5 / 9);
+                    Console.WriteLine(tempvalue);
+                    Console.ReadLine();
+                }
                 }
                 else
                 {
